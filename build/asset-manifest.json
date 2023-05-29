@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ekramkhan930/userlist/static/css/main.bc9a07d8.css",
+    "main.js": "/ekramkhan930/userlist/static/js/main.8dcde069.js",
+    "index.html": "/ekramkhan930/userlist/index.html",
+    "main.bc9a07d8.css.map": "/ekramkhan930/userlist/static/css/main.bc9a07d8.css.map",
+    "main.8dcde069.js.map": "/ekramkhan930/userlist/static/js/main.8dcde069.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bc9a07d8.css",
+    "static/js/main.8dcde069.js"
+  ]
+}
